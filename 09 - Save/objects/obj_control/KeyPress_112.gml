@@ -1,0 +1,1 @@
+scr_change_slot(1, -1, false);
